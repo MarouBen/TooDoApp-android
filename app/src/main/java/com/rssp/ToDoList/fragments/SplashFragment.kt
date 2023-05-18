@@ -1,4 +1,4 @@
-package com.example.myapplication.fragments
+package com.rssp.ToDoList.fragments
 
 import android.os.Bundle
 import android.os.Handler
@@ -9,7 +9,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.navigation.NavController
 import androidx.navigation.Navigation
-import com.example.myapplication.R
+import com.rssp.ToDoList.R
 import com.google.firebase.auth.FirebaseAuth
 
 
