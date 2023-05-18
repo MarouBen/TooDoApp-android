@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.rssp.ToDoList
 
 import org.junit.Test
 
